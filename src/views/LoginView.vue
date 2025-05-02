@@ -81,7 +81,7 @@ const router = useRouter()
 const handleLogin = () => {
   console.log('Login attempted')
 
-  router.push('/dashboard')
+  router.push('/feetbook')
 }
 </script>
 
